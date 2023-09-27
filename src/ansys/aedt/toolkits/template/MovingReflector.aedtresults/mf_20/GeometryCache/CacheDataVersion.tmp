@@ -1,7 +1,0 @@
-$begin 'CacheDataVersion'
-	DataVersion=224
-$end 'CacheDataVersion'
-$begin 'VariableValues'
-	d='5mm'
-	t_var='1s'
-$end 'VariableValues'
